@@ -11,7 +11,9 @@ Have you already memorised all qutoes int the
 [fortunes](https://cran.r-project.org/web/packages/fortunes/index.html)
 package and you are hungry for more? fortunator is for you\! Using our
 higly advanced AI™ and Machine Learning™ algorithm, we’ve developed a
-function that can create literally\["literal\] infinite fortunes\!
+function that can create literally<sup>\*</sup> infinite fortunes\!
+
+<sup>\*</sup>figuratively
 
 ## Installation
 
